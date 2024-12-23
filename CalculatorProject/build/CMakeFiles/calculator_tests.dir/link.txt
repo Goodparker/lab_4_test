@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculator_tests.dir/tests/calculator_test.cpp.o CMakeFiles/calculator_tests.dir/tests/integration_test.cpp.o CMakeFiles/calculator_tests.dir/tests/ui_test.cpp.o CMakeFiles/calculator_tests.dir/calculator.cpp.o -o calculator_tests  -lpthread /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 

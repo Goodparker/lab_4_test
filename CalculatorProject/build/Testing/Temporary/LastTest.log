@@ -1,0 +1,63 @@
+Start testing: Dec 03 09:42 +05
+----------------------------------------------------------
+1/1 Testing: CalculatorTests
+1/1 Test: CalculatorTests
+Command: "/home/parker/desktop/учеба/4_курс/Субботин/CalculatorProject/build/calculator_tests"
+Directory: /home/parker/desktop/учеба/4_курс/Субботин/CalculatorProject/build
+"CalculatorTests" start time: Dec 03 09:42 +05
+Output:
+----------------------------------------------------------
+Running main() from /home/parker/googletest/googletest/src/gtest_main.cc
+[==========] Running 12 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 6 tests from CalculatorTest
+[ RUN      ] CalculatorTest.AddTest
+[       OK ] CalculatorTest.AddTest (0 ms)
+[ RUN      ] CalculatorTest.SubtractTest
+[       OK ] CalculatorTest.SubtractTest (0 ms)
+[ RUN      ] CalculatorTest.MultiplyTest
+[       OK ] CalculatorTest.MultiplyTest (0 ms)
+[ RUN      ] CalculatorTest.DivideTest
+[       OK ] CalculatorTest.DivideTest (0 ms)
+[ RUN      ] CalculatorTest.DivideByZeroTest
+[       OK ] CalculatorTest.DivideByZeroTest (0 ms)
+[ RUN      ] CalculatorTest.NegativeNumbersTest
+[       OK ] CalculatorTest.NegativeNumbersTest (0 ms)
+[----------] 6 tests from CalculatorTest (0 ms total)
+
+[----------] 2 tests from IntegrationTest
+[ RUN      ] IntegrationTest.AddSubtractIntegration
+[       OK ] IntegrationTest.AddSubtractIntegration (0 ms)
+[ RUN      ] IntegrationTest.MultiplyDivideIntegration
+[       OK ] IntegrationTest.MultiplyDivideIntegration (0 ms)
+[----------] 2 tests from IntegrationTest (0 ms total)
+
+[----------] 1 test from AddMultiplyIntegration
+[ RUN      ] AddMultiplyIntegration.AddAndMultiply
+[       OK ] AddMultiplyIntegration.AddAndMultiply (0 ms)
+[----------] 1 test from AddMultiplyIntegration (0 ms total)
+
+[----------] 1 test from SubtractDivideIntegration
+[ RUN      ] SubtractDivideIntegration.SubtractAndDivide
+[       OK ] SubtractDivideIntegration.SubtractAndDivide (0 ms)
+[----------] 1 test from SubtractDivideIntegration (0 ms total)
+
+[----------] 2 tests from UI_Test
+[ RUN      ] UI_Test.DisplayAddition
+[       OK ] UI_Test.DisplayAddition (0 ms)
+[ RUN      ] UI_Test.DisplayErrorOnDivisionByZero
+[       OK ] UI_Test.DisplayErrorOnDivisionByZero (0 ms)
+[----------] 2 tests from UI_Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 12 tests from 5 test suites ran. (0 ms total)
+[  PASSED  ] 12 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTests" end time: Dec 03 09:42 +05
+"CalculatorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 03 09:42 +05

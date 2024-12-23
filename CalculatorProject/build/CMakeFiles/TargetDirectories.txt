@@ -1,0 +1,4 @@
+/home/parker/desktop/учеба/4_курс/Субботин/CalculatorProject/build/CMakeFiles/calculator_tests.dir
+/home/parker/desktop/учеба/4_курс/Субботин/CalculatorProject/build/CMakeFiles/test.dir
+/home/parker/desktop/учеба/4_курс/Субботин/CalculatorProject/build/CMakeFiles/edit_cache.dir
+/home/parker/desktop/учеба/4_курс/Субботин/CalculatorProject/build/CMakeFiles/rebuild_cache.dir
